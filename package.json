@@ -1,0 +1,16 @@
+{
+  "name": "rn-offset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ribsonr/rn-offset.git",
+  "author": "Ribson Roy <ribsonr@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react-native-webview": "^13.12.3"
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*"
+  }
+}
